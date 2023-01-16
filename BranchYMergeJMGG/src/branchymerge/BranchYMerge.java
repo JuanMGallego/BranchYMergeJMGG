@@ -6,7 +6,7 @@ public class BranchYMerge {
 		
 		System.out.println("¡Hola Mundo!");
 		System.out.println("Soy Juanma");
-
+		System.out.println("Hola, soy Pedro");
 	}
 
 }
